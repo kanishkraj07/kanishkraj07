@@ -1,4 +1,4 @@
-## About Me
+# About Me
 I am a Full Stack developer specializing in website design and development.
 
 ## 🛠 Skills
