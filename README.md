@@ -2,7 +2,7 @@
 I am a Full Stack developer specializing in website design and development.
 
 ## 🛠 Skills
-Angular16, Nodejs, Typescript, Spring Boot, Java, Javascript, HTML5, CSS3.
+React Js, Next Js, Angular17, Nodejs, Express.js, Typescript, TailwindCSS, Shadcian, Spring Boot, Java, Docker, AWS.
 
 
 ## 🔗 Links
